@@ -1,4 +1,4 @@
-# classificatio_small_data
+# classification_small_data
 In this repo there is a solution to an image classification problem using a small amount of data. <br/>
 The dataset of images is ciFAIR-10 which consists of 10 classes: the training set is made of 50 training images per class and the test set of 1000 images per class. 
 Out of the 50 images per class that can be used during training, 20 are used solely for validation and the remaining for training. <br/>
